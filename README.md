@@ -6,5 +6,5 @@ PATCH /customers/:customerId/assignItem
 
 
 
-## assign itemId for customer with customerId 
+## leet description for item with itemId
 PATCH /items/:itemId/description
